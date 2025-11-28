@@ -1,2 +1,2 @@
-# code1
+# program1
 sum of two numbers
